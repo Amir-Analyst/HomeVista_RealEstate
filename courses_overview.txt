@@ -1,0 +1,466 @@
+Here is a detailed breakdown of your completed and planned courses, structured for clarity and to provide the syllabus information you need for an LLM.
+Completed Courses
+1. Google Data Analytics Professional Certificate
+Provider: Google Career Certificates
+Overview: Prepares for a career in Data Analytics with AI training, no prior degree or experience required. It emphasizes in-demand skills and AI training.
+Key Learning Outcomes (Overall): Gain an immersive understanding of a junior/associate data analyst's daily job functions. Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau). Understand data cleaning/organization, calculations with spreadsheets, SQL, and R. Visualize/present data in dashboards, presentations, and platforms. Boost data analytics skills with AI to clean/prepare data, organize data/build formulas, ask effective questions, create visualizations, and improve R code. Includes an optional "Accelerate Your Job Search with AI" course.
+Overall Skills Gained: R Programming, Applicant Tracking Systems, Data Validation, Rmarkdown, Interactive Data Visualization, Data Visualization, Ggplot2, Analytical Skills, Stakeholder Communications, Data Ethics. Also, Data cleaning, problem solving, critical thinking.
+Structure (9 courses): 
+1. Foundations: Data, Data, Everywhere (12 hours) 
+Learn: Data analytics concepts, analytical thinking, role of spreadsheets, query languages, visualization tools, data analyst role.
+Skills: Data Analysis, Data-Driven Decision-Making, Data Visualization Software, Data Ethics, Spreadsheet Software, SQL, Data Cleansing, Analytics, Query Languages, Data Processing, Data Collection, Business Analytics, Data Literacy, Data Visualization, Exploratory Data Analysis.
+2. Ask Questions to Make Data-Driven Decisions (15 hours) 
+Learn: Problem-solving road map, data use in decision-making, spreadsheet basics for data entry/organization, structured thinking.
+Skills: Excel Formulas, Data-Driven Decision-Making, Dashboard, Quantitative Research, Analytical Skills, Stakeholder Communications, Spreadsheet Software, Data Literacy, Data Analysis, Expectation Management, Problem Solving.
+3. Prepare Data for Exploration (18 hours) 
+Learn: Data collection factors, biased vs. unbiased data, database functions/components, data organization best practices.
+Skills: Unstructured Data, Data Ethics, Data Security, SQL, Metadata Management, Data Collection, Databases, Data Quality, Relational Databases, Google Sheets, Data Literacy, Data Management.
+4. Process Data from Dirty to Clean (16 hours) 
+Learn: Data integrity types/risks, basic SQL for cleaning string variables, developing SQL queries, verifying cleaning results.
+Skills: Data Cleansing, SQL, Data Integrity, Sampling (Statistics), Sample Size Determination, Data Transformation, Data Manipulation, Spreadsheet Software, Data Wrangling, Data Analysis, Data Validation, Data Quality, Exploratory Data Analysis.
+5. Analyze Data to Answer Questions (26 hours) 
+Learn: Organizing data with sorts/filters, data conversion/formatting, SQL queries to combine data, spreadsheet calculations.
+Skills: SQL, Data Manipulation, Spreadsheet Software, Data Analysis, Pivot Tables And Charts, Data Validation, Excel Formulas, Data Integration, Query Languages, Data Cleansing, Data Transformation.
+6. Share Data Through the Art of Visualization (18 hours) 
+Learn: Data visualizations, Tableau as a tool, data-driven storytelling, effective presentation principles.
+Skills: Data Storytelling, Tableau Software, Data Visualization Software, Interactive Data Visualization, Presentations, Data Presentation, Data Analysis, Data Literacy, Data Visualization, Exploratory Data Analysis, Dashboard, Design Elements And Principles.
+7. Data Analysis with R Programming (31 hours) 
+Learn: R programming language/environment, fundamental R concepts (functions, variables, data types, pipes, vectors), generating R visualizations, R Markdown formatting.
+Skills: R Programming, Ggplot2, Data Cleansing, Data Manipulation, Rmarkdown, Data Structures, Tidyverse (R Package), Data Visualization Software, Statistical Visualization, Data Import/Export, Exploratory Data Analysis, Data Analysis, Development Environment, Data Visualization.
+8. Google Data Analytics Capstone: Complete a Case Study (11 hours) 
+Learn: Case study features, applying analysis process to data, using portfolios for recruiters, AI skills for data analytics (cleaning, organizing, formulas, questions, visualizations, R code).
+Skills: Data Analysis, Data Visualization, Spreadsheet Software, Google Sheets, Analytical Skills, Data Presentation, Presentations, Business Analysis, Data Storytelling, Portfolio Management, Interviewing Skills, Data Cleansing.
+9. Accelerate Your Job Search with AI (6 hours) 
+Learn: Uncover skills, career exploration with Career Dreamer, organizing applications with Google Sheets, resume/job search plan with Gemini, interview preparation with NotebookLM/Gemini Live.
+Skills: Problem Solving, Resourcefulness, Business Writing, Planning, Prompt Engineering, Resilience, Workforce Development, Professional Development, Generative AI, Applicant Tracking Systems, Branding, Interviewing Skills, Communication.
+2. Google Advanced Data Analytics Professional Certificate
+Provider: Google Career Certificates
+Overview: Builds on data analytics skills to advance career. Designed for graduates of the Google Data Analytics Certificate or those with equivalent experience.
+Key Learning Outcomes (Overall): Explore roles of data professionals. Create data visualizations and apply statistical methods. Build regression and machine learning models. Communicate data analysis insights.
+Overall Skills Gained: Data Manipulation, Regression Analysis, Tableau Software, Machine Learning, Sampling (Statistics), Unsupervised Learning, Data Visualization, Data Ethics, Exploratory Data Analysis, Data Analysis.
+Structure (8 courses): 
+1. Foundations of Data Science (15 hours) 
+Learn: Careers in advanced data analytics, impact of data analysis on decision-making, data privacy/ethics, project planning.
+Skills: Data Analysis, Communication, Stakeholder Communications, Data Ethics, Data-Driven Decision-Making, Analytical Skills, Data Science, Data Literacy, Project Design, Data Management, Data Presentation, Data Storytelling, Project Management, Workflow Management.
+2. Get Started with Python (24 hours) 
+Learn: Python in data science, basic Python syntax/semantics, loops, control statements, string manipulation, data structures.
+Skills: Python Programming, NumPy, Data Structures, Object Oriented Programming (OOP), Pandas (Python Package), Data Analysis, Data Visualization, Data Manipulation, Analytical Skills, Jupyter, Programming Principles, Algorithms, Data Cleansing.
+3. Go Beyond the Numbers: Translate Data into Insights (27 hours) 
+Learn: Exploratory data analysis (EDA), data structuring/cleaning benefits, raw data investigation with Python, data visualization with Tableau.
+Skills: Exploratory Data Analysis, Data Visualization Software, Tableau Software, Data Cleansing, Data Validation, Data Manipulation, Data Storytelling, Data Ethics, Technical Communication, Data Visualization, Data Transformation, Data Presentation, Python Programming, Data Analysis.
+4. The Power of Statistics (31 hours) 
+Learn: Data exploration/summarization, probability distributions for modeling, hypothesis testing, statistical analysis with Python.
+Skills: Descriptive Statistics, Statistical Inference, Statistical Hypothesis Testing, Probability Distribution, Sampling (Statistics), Probability, Statistical Analysis, Statistics, Jupyter, Python Programming, Data Analysis, Data Science, Statistical Programming.
+5. Regression Analysis: Simplify Complex Data Relationships (28 hours) 
+Learn: Investigating dataset relationships, regression model assumptions, linear/logistic regression with Python, model evaluation/interpretation.
+Skills: Regression Analysis, Estimation, Statistical Modeling, Statistical Hypothesis Testing, Correlation Analysis, Predictive Modeling, Python Programming, Business Analytics, Statistical Machine Learning, Performance Metric, Statistical Analysis, Scikit Learn (Machine Learning Library), Data Analysis, Analytics.
+6. The Nuts and Bolts of Machine Learning (34 hours) 
+Learn: Machine learning types, data preparation for models, supervised/unsupervised model building/evaluation with Python, model/metric selection.
+Skills: Unsupervised Learning, Random Forest Algorithm, Supervised Learning, Machine Learning Algorithms, Machine Learning, Deep Learning, Python Programming, Decision Tree Learning, Applied Machine Learning, Feature Engineering, Workflow Management, Predictive Modeling, Data Validation, Artificial Intelligence and Machine Learning (AI/ML), Performance Metric, Scikit Learn (Machine Learning Library).
+7. Google Advanced Data Analytics Capstone (6 hours) 
+Learn: Data patterns/trends, building models with ML, creating data visualizations, career resources.
+Skills: Portfolio Management, Project Documentation, Data Analysis, Python Programming, Advanced Analytics, Presentations, Machine Learning, Analytical Skills, Artificial Intelligence, Project Management.
+8. Accelerate Your Job Search with AI (6 hours) 
+Learn: Skills discovery, career exploration (Career Dreamer), application organization (Google Sheets), resume/job search plan (Gemini), interview prep (NotebookLM/Gemini Live).
+Skills: Problem Solving, Resourcefulness, Business Writing, Planning, Prompt Engineering, Resilience, Workforce Development, Professional Development, Generative AI, Applicant Tracking Systems, Branding, Interviewing Skills, Communication.
+3. IBM AI Engineering Professional Certificate
+Provider: IBM
+Overview: Focuses on becoming job-ready as an AI engineer, building practical skills and experience. Targets data scientists, machine learning engineers, and software engineers.
+Key Learning Outcomes (Overall): Describe ML, deep learning, neural networks, and various ML algorithms. Implement supervised and unsupervised machine learning models using SciPy and ScikitLearn. Deploy ML algorithms/pipelines on Apache Spark. Build deep learning models and neural networks using Keras, PyTorch, and TensorFlow. Build, train, and deploy deep architectures like CNNs, RNNs, autoencoders, and generative AI models (including LLMs).
+Overall Skills Gained: Machine Learning, Applied Machine Learning, Unsupervised Learning, Deep Learning, Generative AI, Generative AI Agents, Artificial Neural Networks, Natural Language Processing, Jupyter.
+Structure (13 courses): 
+1. Machine Learning with Python (20 hours) 
+Learn: ML concepts/tools/roles, apply core ML algorithms (regression, classification, clustering, dimensionality reduction) with Python/scikit-learn, evaluate model performance, build end-to-end ML solutions.
+Skills: Regression Analysis, Unsupervised Learning, Machine Learning, Supervised Learning, Dimensionality Reduction, Machine Learning Algorithms, Decision Tree Learning, Data Validation, Scikit Learn (Machine Learning Library), Applied Machine Learning, Python Programming, Statistical Modeling, AI/ML, Predictive Modeling, CART, Feature Engineering, Performance Tuning, Jupyter.
+2. Introduction to Deep Learning & Neural Networks with Keras (10 hours) 
+Learn: Deep learning fundamentals, neural network concepts/components, building deep learning models (regression/classification) with Keras, designing advanced architectures (CNNs, RNNs, transformers).
+Skills: Deep Learning, Artificial Neural Networks, Keras, Network Architecture, Computer Vision, AI/ML, Natural Language Processing, Unsupervised Learning, Applied Machine Learning, Machine Learning, Regression Analysis, Anomaly Detection, Image Analysis.
+3. Deep Learning with Keras and Tensorflow (23 hours) 
+Learn: Custom layers/models in Keras, integrating Keras with TensorFlow, advanced CNNs, Transformer models for sequential/time series data, Unsupervised learning in Keras, Deep Q-networks (DQNs), reinforcement learning.
+Skills: Tensorflow, Keras, Deep Learning, Generative AI, Reinforcement Learning, Unsupervised Learning, Time Series Analysis and Forecasting, AI/ML, Image Analysis, Performance Tuning, Applied Machine Learning, Artificial Neural Networks, Natural Language Processing.
+4. Introduction to Neural Networks and PyTorch (17 hours) 
+Learn: PyTorch skills, linear regression with PyTorch, logistic regression for classification, data handling/model training with gradient descent.
+Skills: PyTorch, Regression Analysis, Data Manipulation, CART, Tensorflow, Data Structures, Statistical Methods, Predictive Modeling, Artificial Neural Networks, Probability & Statistics, Deep Learning.
+5. Deep Learning with PyTorch (20 hours) 
+Learn: Softmax regression, developing/training shallow neural networks, deep neural network concepts (dropout, weight initialization, batch normalization), convolutional neural networks.
+Skills: Deep Learning, PyTorch, Artificial Neural Networks, Regression Analysis, Python Programming, Machine Learning Algorithms, Computer Vision, Supervised Learning.
+6. AI Capstone Project with Deep Learning (14 hours) 
+Learn: Building deep learning models with Keras/PyTorch for image classification, designing/implementing deep learning pipelines, applying CNNs/vision transformers, communicating project outcomes.
+Skills: Keras, PyTorch, Deep Learning, AI/ML, Computer Vision, Python Programming, Machine Learning.
+7. Generative AI and LLMs: Architecture and Data Preparation (5 hours) 
+Learn: GenAI architectures/models (RNNs, transformers, VAEs, GANs, diffusion), LLMs (GPT, BERT, BART, T5) in NLP, tokenization with NLP libraries, NLP data loader in PyTorch.
+Skills: Natural Language Processing, Generative AI, PyTorch, Data Processing, Large Language Modeling, Data Quality, Artificial Neural Networks, ChatGPT, Deep Learning, AI/ML.
+8. Gen AI Foundational Models for NLP & Language Understanding (10 hours) 
+Learn: Text transformation to numerical features for NLP (encoding, bag-of-words, embeddings), Word2Vec models (CBOW, Skip-gram), neural network-based language models, sequence-to-sequence models.
+Skills: Natural Language Processing, Artificial Neural Networks, PyTorch, Data Ethics, Text Mining, Generative AI, Large Language Modeling, Deep Learning, Machine Learning Methods, Feature Engineering, Statistical Methods.
+9. Generative AI Language Modeling with Transformers (9 hours) 
+Learn: Attention mechanisms in transformers, decoder-based vs. encoder-based LLMs, implementing transformer components (positional encoding, attention, masking) with PyTorch, applying transformer-based models for NLP tasks (text classification, translation).
+Skills: PyTorch, Natural Language Processing, Generative AI, Large Language Modeling, Machine Learning Methods, Deep Learning, Artificial Neural Networks.
+10. Generative AI Engineering and Fine-Tuning Transformers (8 hours) 
+Learn: GenAI engineering with transformer-based LLMs, parameter-efficient fine-tuning (PEFT) methods (LoRA, QLoRA), using/fine-tuning pretrained transformer models, loading/running inference/training models with Hugging Face/PyTorch.
+Skills: PyTorch, Large Language Modeling, Generative AI, Applied Machine Learning, Natural Language Processing, Prompt Engineering, Performance Tuning.
+11. Generative AI Advance Fine-Tuning for LLMs (9 hours) 
+Learn: Fine-tuning LLMs, instruction tuning/reward modeling with Hugging Face, LLMs as policies/RLHF, direct preference optimization (DPO), proximal policy optimization (PPO) with Hugging Face.
+Skills: Large Language Modeling, Performance Tuning, Reinforcement Learning, Process Optimization, Prompt Engineering, Natural Language Processing, Generative AI.
+12. Fundamentals of AI Agents Using RAG and LangChain (7 hours) 
+Learn: Building AI agents with RAG/LangChain, in-context learning, advanced prompt engineering, LangChain concepts (tools, components, chat models, chains, agents), building AI applications integrating RAG, PyTorch, Hugging Face, LLMs, LangChain.
+Skills: Prompt Engineering, PyTorch, Natural Language Processing, Artificial Intelligence, AI/ML, Large Language Modeling, Generative AI, Generative AI Agents.
+13. Project: Generative AI Applications with RAG and LangChain (9 hours) 
+Learn: Building real-world GenAI applications, creating/configuring vector databases, developing retrievers, setting up Gradio interface, building QA bots with LangChain/LLM.
+Skills: Generative AI, User Interface (UI), Large Language Modeling, Data Storage Technologies, Natural Language Processing, Databases, Application Development, Human Computer Interaction, Data Import/Export, Artificial Intelligence, Unstructured Data, Prompt Engineering.
+4. IBM Generative AI Engineering Professional Certificate
+Provider: IBM
+Overview: Develops job-ready GenAI skills, focusing on practical experience. No prior experience required.
+Key Learning Outcomes (Overall): Gain job-ready skills in GenAI, machine learning, deep learning, NLP, and large language models. Build and deploy generative AI applications, agents, and chatbots using Python libraries like Flask, SciPy, ScikitLearn, Keras, and PyTorch. Understand key GenAI architectures and NLP models, applying prompt engineering, model training, and fine-tuning. Apply transformers (BERT) and LLMs (GPT) for NLP tasks with frameworks like RAG and LangChain.
+Overall Skills Gained: Data Manipulation, Unsupervised Learning, Deep Learning, Generative AI, Flask (Web Framework), Generative AI Agents, Web Applications, Natural Language Processing, Data Wrangling, Jupyter.
+Structure (16 courses): 
+1. Introduction to Artificial Intelligence (AI) (12 hours) 
+Learn: AI fundamentals/applications, ML/deep learning/neural network principles, GenAI in business operations, designing GenAI solutions with ethics.
+Skills: Generative AI, OpenAI, Business Process Automation, Natural Language Processing, Generative AI Agents, ChatGPT.
+2. Generative AI: Introduction and Applications (7 hours) 
+Learn: Generative AI distinction from discriminative AI, capabilities/use cases, applications in sectors, common GenAI models/tools for text, code, image, audio, video generation.
+Skills: Generative AI, Prompt Engineering, ChatGPT, Content Creation, Virtual Environment, Large Language Modeling, Image Analysis, Artificial Intelligence.
+3. Generative AI: Prompt Engineering Basics (9 hours) 
+Learn: Prompt engineering concepts/best practices, applying techniques to text prompts, practicing prompt engineering methods, exploring prompt engineering tools.
+Skills: Prompt Engineering, Technical Writing, Artificial Intelligence, Image Analysis, ChatGPT, Large Language Modeling.
+4. Python for Data Science, AI & Development (25 hours) 
+Learn: Python programming basics (syntax, data types, variables), programming logic (data structures, conditions, loops, functions), Python libraries (Pandas, Numpy) with Jupyter, web data access (REST APIs, web scraping).
+Skills: NumPy, Data Structures, Web Scraping, Python Programming, Pandas (Python Package), Data Analysis, API, Programming Principles, Data Import/Export, Data Collection, Data Manipulation, Computer Programming, Data Processing, Jupyter, OOP.
+5. Developing AI Applications with Python and Flask (11 hours) 
+Learn: Python application development lifecycle, creating Python modules, unit testing, packaging applications (PEP8), building/deploying web applications with Flask, creating/deploying AI-based apps with IBM Watson AI Libraries/Flask.
+Skills: Python Programming, Application Deployment, Unit Testing, Style Guides, Flask, Code Review, Restful API, Programming Principles, Natural Language Processing, Artificial Intelligence, Web Applications, Software Testing, Web Development.
+6. Building Generative AI-Powered Applications with Python (14 hours) 
+Learn: GenAI core concepts (LLMs, speech technologies, IBM watsonX, Hugging Face), building GenAI-powered apps/chatbots with LLMs/RAG/Python frameworks, integrating speech-to-text/text-to-speech, developing web-based AI apps with Flask/Gradio/HTML/CSS/JavaScript.
+Skills: Generative AI, Flask, Large Language Modeling, Natural Language Processing, IBM Cloud, Python Programming, Application Development, Front-End Web Development, Web Applications, Artificial Intelligence, Back-End Web Development, Prompt Engineering, Cloud Applications, Application Deployment, Serverless Computing, OpenAI.
+7. Data Analysis with Python (16 hours) 
+Learn: Python programs for data cleaning/preparation, EDA with Pandas/NumPy/SciPy, data operation techniques with dataframes, developing/evaluating regression models with Scikit-learn.
+Skills: Regression Analysis, Descriptive Statistics, Data Cleansing, Pandas (Python Package), Data Analysis, Predictive Modeling, Data Wrangling, Statistical Modeling, Exploratory Data Analysis, Data Manipulation, Correlation Analysis, Predictive Analytics, Python Programming, Data Visualization, Data Import/Export, Machine Learning Methods, Visualization (Computer Graphics), Statistical Analysis.
+8. Machine Learning with Python (20 hours) 
+Learn: ML concepts/tools/roles, apply core ML algorithms (regression, classification, clustering, dimensionality reduction) with Python/scikit-learn, evaluate model performance, build end-to-end ML solutions.
+Skills: Regression Analysis, Unsupervised Learning, Machine Learning, Supervised Learning, Dimensionality Reduction, Machine Learning Algorithms, Decision Tree Learning, Data Validation, Scikit Learn (Machine Learning Library), Applied Machine Learning, Python Programming, Statistical Modeling, AI/ML, Predictive Modeling, CART, Feature Engineering, Performance Tuning, Jupyter.
+9. Introduction to Deep Learning & Neural Networks with Keras (10 hours) 
+Learn: Deep learning fundamentals, neural network concepts/components, building deep learning models (regression/classification) with Keras, designing advanced architectures (CNNs, RNNs, transformers).
+Skills: Deep Learning, Artificial Neural Networks, Keras, Network Architecture, Computer Vision, AI/ML, Natural Language Processing, Unsupervised Learning, Applied Machine Learning, Machine Learning, Regression Analysis, Anomaly Detection, Image Analysis.
+10. Generative AI and LLMs: Architecture and Data Preparation (5 hours) 
+Learn: GenAI architectures/models (RNNs, transformers, VAEs, GANs, diffusion), LLMs (GPT, BERT, BART, T5) in NLP, tokenization with NLP libraries, NLP data loader in PyTorch.
+Skills: Natural Language Processing, Generative AI, PyTorch, Data Processing, Large Language Modeling, Data Quality, Artificial Neural Networks, ChatGPT, Deep Learning, AI/ML.
+11. Gen AI Foundational Models for NLP & Language Understanding (10 hours) 
+Learn: Text transformation to numerical features for NLP (encoding, bag-of-words, embeddings), Word2Vec models (CBOW, Skip-gram), neural network-based language models, sequence-to-sequence models.
+Skills: Natural Language Processing, Artificial Neural Networks, PyTorch, Data Ethics, Text Mining, Generative AI, Large Language Modeling, Deep Learning, Machine Learning Methods, Feature Engineering, Statistical Methods.
+12. Generative AI Language Modeling with Transformers (9 hours) 
+Learn: Attention mechanisms in transformers, decoder-based vs. encoder-based LLMs, implementing transformer components (positional encoding, attention, masking) with PyTorch, applying transformer-based models for NLP tasks (text classification, translation).
+Skills: PyTorch, Natural Language Processing, Generative AI, Large Language Modeling, Machine Learning Methods, Deep Learning, Artificial Neural Networks.
+13. Generative AI Engineering and Fine-Tuning Transformers (8 hours) 
+Learn: GenAI engineering with transformer-based LLMs, parameter-efficient fine-tuning (PEFT) methods (LoRA, QLoRA), using/fine-tuning pretrained transformer models, loading/running inference/training models with Hugging Face/PyTorch.
+Skills: PyTorch, Large Language Modeling, Generative AI, Applied Machine Learning, Natural Language Processing, Prompt Engineering, Performance Tuning.
+14. Generative AI Advance Fine-Tuning for LLMs (9 hours) 
+Learn: Fine-tuning LLMs, instruction tuning/reward modeling with Hugging Face, LLMs as policies/RLHF, direct preference optimization (DPO), proximal policy optimization (PPO) with Hugging Face.
+Skills: Large Language Modeling, Performance Tuning, Reinforcement Learning, Process Optimization, Prompt Engineering, Natural Language Processing, Generative AI.
+15. Fundamentals of AI Agents Using RAG and LangChain (7 hours) 
+Learn: Building AI agents with RAG/LangChain, in-context learning, advanced prompt engineering, LangChain concepts (tools, components, chat models, chains, agents), building AI applications integrating RAG, PyTorch, Hugging Face, LLMs, LangChain.
+Skills: Prompt Engineering, PyTorch, Natural Language Processing, Artificial Intelligence, AI/ML, Large Language Modeling, Generative AI, Generative AI Agents.
+16. Project: Generative AI Applications with RAG and LangChain (9 hours) 
+Learn: Building real-world GenAI applications, creating/configuring vector databases, developing retrievers, setting up Gradio interface, building QA bots with LangChain/LLM.
+Skills: Generative AI, User Interface (UI), Large Language Modeling, Data Storage Technologies, Natural Language Processing, Databases, Application Development, Human Computer Interaction, Data Import/Export, Artificial Intelligence, Unstructured Data, Prompt Engineering.
+5. Vanderbilt University Generative AI Automation Specialization
+Provider: Vanderbilt University
+Overview: Teaches how to utilize ChatGPT and other LLMs for complex tasks and automation. No prior experience required.
+Key Learning Outcomes (Overall): Learn to craft effective prompts for generative AI tools, eliciting emergent intelligence and advanced reasoning. Automate intricate tasks and transform workflows using prompt engineering.
+Overall Skills Gained: Innovation, ChatGPT, Artificial Intelligence, Generative AI, Data Processing, Data Import/Export, Human Machine Interfaces, Emerging Technologies, Computer Vision, Data Ethics, Technical Communication.
+Structure (4 courses): 
+1. Prompt Engineering for ChatGPT (18 hours) 
+Learn: Applying prompt engineering with ChatGPT/LLMs, using prompt patterns, creating complex prompt-based applications.
+Skills: Prompt Engineering, Generative AI, Large Language Modeling, Application Development, Artificial Intelligence, ChatGPT.
+2. ChatGPT Advanced Data Analysis (10 hours) 
+Learn: Automating tasks with ChatGPT Code Interpreter, automating reading/creating various file types (PDFs, PowerPoint, Excel, images, video).
+Skills: Data Analysis, Artificial Intelligence, Data Visualization Software, Microsoft Excel, ChatGPT, Technical Communication, Large Language Modeling, Automation, Data Import/Export, Data Transformation, Data Processing, Generative AI, Prompt Engineering.
+3. Trustworthy Generative AI (8 hours) 
+Learn: Identifying suitable problems for GenAI, framing problems and prompt engineering for trustworthy results.
+Skills: Generative AI, Artificial Intelligence, Prompt Engineering, ChatGPT, Risk Management Framework, Verification And Validation, Human Machine Interfaces, Data Ethics.
+4. GPT Vision: Seeing the World through Generative AI (3 hours) 
+Learn: Converting images of notes/receipts/sketches into organized text, transforming pictures into recipes, shopping lists, DIY plans, social media posts, budget entries, or organizational plans. Learning/analyzing information from images.
+Skills: Generative AI, Prompt Engineering, AI Personalization, Image Analysis, Artificial Intelligence, Emerging Technologies, Mobile Development, Computer Vision, Innovation.
+6. IBM AI Enterprise Workflow Specialization
+Provider: IBM
+Overview: Designed for practicing data scientists to build and deploy AI in large enterprises, preparing for the IBM AI Enterprise Workflow V1 Data Science Specialist certification.
+Key Learning Outcomes (Overall): Connect business priorities to technical implementations. Connect machine learning to specialized AI use cases like visual recognition and NLP. Connect Python to IBM Cloud technologies. Use enterprise-class tools on IBM Cloud to create, deploy, and test machine learning models.
+Overall Skills Gained: Machine Learning, Applied Machine Learning, Unsupervised Learning, MLOps (Machine Learning Operations), Data Pipelines, Apache Spark, Data Processing, Business Process, Data Ethics.
+Structure (6 courses, must be taken in order): 
+1. AI Workflow: Business Priorities and Data Ingestion (7 hours) 
+Learn: Structured data science process, design thinking/AI workflow correspondence, business opportunity prioritization strategies, data science/engineering overlap, data ingestion testing, sparse matrices use case, initial data ingestion pipeline automation.
+Skills: Design Thinking, Python Programming, Data Quality, Business Priorities, Jupyter, Data Cleansing, Data Processing, Data Pipelines, Machine Learning, Business Process, Data Science, Data Collection.
+2. AI Workflow: Data Analysis and Hypothesis Testing (10 hours) 
+Learn: EDA/data visualization best practices, creating Watson Studio dashboards, handling missing data (imputation), using probability distributions for event probabilities, investigative role of hypothesis testing, methods for multiple testing.
+Skills: Exploratory Data Analysis, Python Programming, Statistical Analysis, Data Cleansing, Dashboard, Jupyter, Statistical Hypothesis Testing, Statistical Inference, Data Analysis, Data Science, Probability Distribution, Data Storytelling, Machine Learning, Probability & Statistics, Data Visualization Software, Data Manipulation, Pandas (Python Package), Matplotlib.
+3. AI Workflow: Feature Engineering and Bias Detection (12 hours) 
+Learn: Addressing class/class imbalance issues, ethical considerations of data bias, using AI Fairness 360 to detect bias, dimension reduction techniques, topic modeling in NLP, exploring text data with topic modeling/visualization, outlier handling, outlier detection algorithms, unsupervised learning techniques/pipelines, basic clustering algorithms.
+Skills: Dimensionality Reduction, Anomaly Detection, Feature Engineering, Data Science, Exploratory Data Analysis, Data Cleansing, Text Mining, Artificial Intelligence, Applied Machine Learning, Machine Learning Algorithms, Natural Language Processing, Unsupervised Learning, Python Programming, Data Quality, Data Transformation, Machine Learning, Data Ethics.
+4. AI Workflow: Machine Learning, Visual Recognition and NLP (13 hours) 
+Learn: Regression, classification, multilabel classification metrics, linear/logistic regression, grid searching/cross-validation, model selection, tree-based algorithms, Neural Networks variants, creating neural net in Tensorflow, Watson Visual Recognition/NLU instances.
+Skills: Deep Learning, Performance Metric, Supervised Learning, Natural Language Processing, Image Analysis, Regression Analysis, Applied Machine Learning, Tensorflow, Python Programming, Computer Vision, Machine Learning, Data Science, AI/ML, CART, Text Mining, Random Forest Algorithm, MLOps, Business Metrics, Artificial Neural Networks.
+5. AI Workflow: Enterprise Model Deployment (9 hours) 
+Learn: Using Apache Spark (RDDs, dataframes, pipelines), spark-submit scripts, collaborative/content-based filtering, building data ingestion pipelines with Spark, analyzing hyperparameters on Spark, deploying ML algorithms with Spark ML, deploying ML models from Watson Studio to Watson Machine Learning.
+Skills: Apache Spark, Docker (Software), Python Programming, PySpark, Application Deployment, AI Personalization, Machine Learning, MLOps, Data Science, Data Pipelines, IBM Cloud, Performance Tuning, Scalability.
+6. AI Workflow: AI in Production (17 hours) 
+Learn: IBM Watson Machine Learning, building APIs in Docker containers, managing containers with Kubernetes, IBM tools for production models, AI workflow feedback loops, unit testing in model production, IBM Watson OpenScale for bias/performance assessment.
+Skills: Business Metrics, Unit Testing, Data Science, Time Series Analysis and Forecasting, Kubernetes, MLOps, Machine Learning, Performance Analysis, IBM Cloud, Business Analysis, Containerization, Continuous Monitoring, Workflow Management, Python Programming, Application Deployment.
+7. American Psychological Association Discover Yourself, Build Relationships, and Navigate Groups Specialization
+Provider: American Psychological Association
+Overview: Develop a greater understanding of self, improve relationships, and explore group dynamics. No prior experience required.
+Key Learning Outcomes (Overall): Learn about self-concept, self-esteem, biases, blindspots, and how to control thoughts/feelings/behaviors. Explore initial attraction, relationship formation/dissolution, and how group membership changes thoughts, feelings, and behaviors. Apply insights to improve self-control, create satisfying relationships, and protect groups.
+Overall Skills Gained: Relationship Building, Self-Motivation, Scientific Methods, Self-Awareness, Interpersonal Communications, Psychology, Rapport Building, Social Sciences, Industrial and Organizational Psychology.
+Structure (3 courses): 
+1. Social Psychology of Attraction and Relationships (10 hours) 
+Learn: Foundational psychology of relationships, four determinants of initial attraction, impression formation, nature of love, relationship termination, using models to predict satisfaction/duration.
+Skills: Psychology, Cultural Diversity, Behavioral Economics, Relationship Building, Interpersonal Communications, Relationship Management, Research, Rapport Building.
+2. Psychology of the Self (14 hours) 
+Learn: Self-discovery for personal/professional insights, navigating challenges/improving habits with self-awareness.
+Skills: Self-Awareness, Psychology, Goal Setting, Personal Development, Self-Motivation, Critical Thinking, Cultural Diversity, Emotional Intelligence, Scientific Methods, Behavior Management, Research.
+3. Psychology of Group Behaviors (6 hours) 
+Learn: How groups affect thoughts/behaviors/communities, topics like social facilitation, social loafing, deindividuation, group conformity, bystander effect, groupthink, group polarization, identifying/managing their effects.
+Skills: Psychology, Behavioral Economics, Sociology, Social Sciences, Industrial and Organizational Psychology, Research.
+8. Johns Hopkins University Neuromarketing Specialization
+Provider: Johns Hopkins University
+Overview: Provides expertise in neuroscience and neuromarketing methods for post-graduate students.
+Key Learning Outcomes (Overall): Apply behavior change theories and neuroscience models to marketing strategies for influencing consumer decision-making and engagement. Gain hands-on experience with neuroimaging, biometric, and psycho-physiological tools. Develop research protocols and ethical practices for human subject research.
+Overall Skills Gained: Neurology, Ethical Standards And Conduct, Research Design, Psychology, Data Collection, Medical Imaging, Consumer Behaviour, Magnetic Resonance Imaging, Data Analysis, Marketing, Statistical Analysis.
+Structure (3 courses): 
+1. Foundations of Neuroscience (22 hours) 
+Learn: Neural anatomy, brain regions in influence/persuasion/perception/executive function, sensory systems/perception phenomena, memory processes (declarative, procedural, priming), emotional processing/decision-making theories (System 1/System 2).
+Skills: Neurology, Psychology, Consumer Behaviour, Anatomy, Decision Making, Experimentation, Persuasive Communication, Marketing Psychology, Behavioral Economics, Marketing Effectiveness.
+2. Neuroscience Methods (15 hours) 
+Learn: Collecting/analyzing neuroimaging data (perception, attention, memory, emotion), interpreting fNIRS brain imaging data, applying statistical tests, understanding biometric/physiological/qualitative methods, analyzing eye-tracking data.
+Skills: Magnetic Resonance Imaging, Research Methodologies, Medical Imaging, Statistical Analysis, Data Collection, Anatomy, Laboratory Research, Neurology, Statistics, Data Analysis, Psychology, Quantitative Research.
+3. Practical Neuromarketing Research (19 hours) 
+Learn: Classical behavior change models, neurocognitive influence model in neuromarketing, ethical standards for human subjects research, developing experimental designs/research protocols, hands-on experience with biometric, neuroimaging, psycho-physiological tools for data collection/analysis.
+Skills: Neurology, Ethical Standards And Conduct, Branding, Research, Influencing, Qualitative Research, Consumer Behaviour, Research Design, Behavioral Economics, Marketing, Data Analysis, Intercultural Competence, Data Collection, Experimentation, Market Research, Statistical Analysis.
+9. SAP Business Analyst Professional Certificate
+Provider: SAP Career Certificates
+Overview: Aims to launch a career as a Business Analyst, combining business acumen, technical skills, and analytical thinking.
+Key Learning Outcomes (Overall): Apply analytical skills and SAP knowledge to identify/solve business challenges. Develop clear, structured documentation (process maps, user stories, requirements specifications). Integrate business analysis techniques to design, validate, and support solution implementation. Gain hands-on experience with SAP Solution Manager, SAP Signavio, and SAP Analytics Cloud.
+Overall Skills Gained: Verification And Validation, Process Optimization, Requirements Elicitation, Business Process Management, Stakeholder Management, Business Analysis, Solution Design, Conflict Management.
+Structure (4 courses): 
+1. Foundations of Business Analysis (16 hours) 
+Learn: Business analysis concepts/methodologies, BA role, software development lifecycle (SAP solutions), evaluating business cases, strategic analysis (SAP Activate), using ChatGPT for BA.
+Skills: Business Analysis, Stakeholder Management, Agile Methodology, SAP Applications, Conflict Management, Requirements Analysis, Critical Thinking, Business Strategy, Analysis, Business Process Modeling, Business Requirements, Solution Design, Communication, PMI Methodology, Systems Analysis.
+2. Requirements Gathering and Documentation (15 hours) 
+Learn: Techniques for gathering/analyzing/documenting business requirements, creating comprehensive documentation (SAP Solution Manager), designing use cases/user stories, evaluating requirements quality with ChatGPT.
+Skills: Requirements Analysis, Requirements Management, Stakeholder Engagement, Requirements Elicitation, User Story, UAT, Acceptance Testing, SAP Applications, Project Documentation, Process Validation, Business Requirements, Verification And Validation, Interviewing Skills, User Requirements Documents.
+3. Business Process Modeling and Analysis (17 hours) 
+Learn: Analyzing/modeling business processes with SAP tools, hands-on with SAP Signavio for process maps, gap analysis, using SAP Analytics Cloud for process data analysis/visualizations/reports, leveraging AI tools (ChatGPT) for process analysis/documentation.
+Skills: Process Analysis, Business Process Modeling, Gap Analysis, Root Cause Analysis, Process Improvement, Process Optimization, KPIs, Data-Driven Decision-Making, Business Process Management, Data Visualization, Process Mapping, ChatGPT, Workflow Management, SAP Applications.
+4. Strategic Analysis and Solution Design (17 hours) 
+Learn: Strategic analysis/solution design for senior BA roles, developing business cases/solution designs (risk analysis), using SAP Build for optimized workflows, portfolio management (ChatGPT for analysis).
+Skills: Change Management, Risk Management, Business Analysis, Risk Analysis, Systems Integration, Solution Design, Solution Architecture, Cost Benefit Analysis, Performance Metric, Business Strategy, Organizational Change, UAT, Dashboard, Project Implementation, SAP Applications.
+10. IBM RAG and Agentic AI Professional Certificate
+Provider: IBM
+Overview: Equips with advanced generative AI skills, focusing on advanced techniques and tools like prompt engineering, Agentic, and multimodal AI integration. Targets software developers, machine learning engineers, data scientists, and Python programmers.
+Key Learning Outcomes (Overall): Build job-aligned GenAI skills and hands-on experience in creating RAG, multimodal, and agentic AI applications. Design and chain AI tools with LangChain for modular workflows. Implement function calling, RAG, and vector stores for intelligent applications. Create autonomous AI agents using LangGraph, CrewAI, and AG2.
+Overall Skills Gained: ChatGPT, Artificial Intelligence, Software Architecture, Agentic systems, Generative AI, Flask (Web Framework), Generative AI Agents, Web Applications, Application Frameworks.
+Structure (8 courses): 
+1. Develop Generative AI Applications: Get Started (8 hours) 
+Learn: GenAI/LangChain basics (prompt engineering, in-context learning), applying prompt templates/chains/agents, developing GenAI web apps with Flask (JSON parsing), evaluating/comparing language models.
+Skills: Prompt Engineering, Generative AI, Application Development, Large Language Modeling, Artificial Intelligence, Software Development, Flask, Application Frameworks, JSON, Natural Language Processing.
+2. Build RAG Applications: Get Started (6 hours) 
+Learn: Practical RAG understanding, designing interactive RAG interfaces with Gradio, LlamaIndex uses/comparison to LangChain, building RAG apps with LangChain/LlamaIndex in Python.
+Skills: Prompt Engineering, Large Language Modeling, Real Time Data.
+3. Vector Databases for RAG: An Introduction (9 hours) 
+Learn: Differentiating vector/traditional databases, fundamental ChromaDB operations, similarity search techniques, developing recommendation systems, understanding RAG internal mechanisms.
+Skills: Databases, AI Personalization, Data Storage Technologies, Information Architecture, NoSQL, Large Language Modeling, Generative AI, Database Systems.
+4. Advanced RAG with Vector Databases and Retrievers (7 hours) 
+Learn: Building RAG apps with vector databases/advanced retrieval patterns, core mechanics of Vector Databases (FAISS, Chroma DB)/indexing algorithms (HNSW), implementing advanced retrievers (LlamaIndex, LangChain), developing RAG apps integrating LangChain, FAISS, Gradio UIs.
+Skills: Algorithms, Artificial Intelligence, Database Management Systems, Generative AI, Large Language Modeling, Semantic Web, Query Languages, Data Store, Natural Language Processing.
+5. Build Multimodal Generative AI Applications (7 hours) 
+Learn: Building multimodal GenAI applications, fundamental concepts/challenges in multimodal AI (text, speech, image, video), building multimodal AI apps with state-of-the-art models (IBM’s Granite, Meta’s Llama, OpenAI’s Whisper, DALL·E, Sora), developing multimodal AI solutions (chatbots, image/video generation) with IBM watsonx.ai, Hugging Face, Flask, Gradio.
+Skills: Flask, Prompt Engineering, Application Development, Web Development, Web Applications, Applied Machine Learning, OpenAI, Software Development.
+6. Fundamentals of Building AI Agents (11 hours) 
+Learn: Developing AI agents for reasoning/task performance, implementing tool calling/chaining for structured AI workflows, utilizing LangChain agents for data analysis/visualization/database queries, best practices in prompt engineering/tool calling.
+Skills: Generative AI Agents, Application Development, Decision Support Systems, Agentic systems, Software Development, AI/ML.
+7. Agentic AI with LangChain and LangGraph (10 hours) 
+Learn: Building agentic AI systems with LangChain/LangGraph (memory, iteration, conditional logic), designing/implementing self-improving agents (Reflection, Reflexion, ReAct), applying agent orchestration for multi-agent systems, implementing agentic RAG systems.
+Skills: Generative AI Agents, Agentic systems, Generative AI, Application Frameworks, Python Programming, Technical Design, AI/ML, System Design and Implementation, Data Science, Graph Theory, Software Development.
+8. Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI (8 hours) 
+Learn: Applying agentic AI principles with LangGraph, CrewAI, AutoGen, BeeAI for scalable AI systems, analyzing foundational AI design patterns, constructing multi-agent systems with CrewAI, developing AI-driven applications with BeeAI/AutoGen.
+Skills: Automation, Generative AI, Artificial Intelligence, Software Design Patterns, Agentic systems, Generative AI Agents, AI/ML, ChatGPT, Large Language Modeling, Application Frameworks, OpenAI, Prompt Engineering, Systems Design, Health Technology, Software Design, Software Architecture.
+11. Deep Teaching Solutions Learning How to Learn: Powerful mental tools to help you master tough subjects
+Provider: Deep Teaching Solutions
+Overview: Provides learning techniques used by experts in various disciplines. No prior experience required.
+Key Learning Outcomes (Overall): Understand brain's two learning modes, and how to encapsulate ("chunks") information. Learn about illusions of learning, memory techniques, dealing with procrastination, and effective practices for mastering tough subjects. Improve thinking and learning, including counter-intuitive test-taking tips and time management for homework/problem sets.
+Overall Skills Gained: Productivity, Stress Management, Creativity, Learning Theory, Student Engagement, Time Management, Adaptability, Growth Mindedness, Overcoming Obstacles, Learning Strategies, Cognitive flexibility.
+Structure (4 modules): 
+Module 1: How to Learn Most Effectively (approx. 1 hour core content) 
+Learn: Different modes of thinking (focused/diffuse), improving learning, tackling procrastination, practical memory info, learning and sleep.
+Module 2: What is a Chunk? (approx. 1.5 hours core content) 
+Learn: Chunks as compact info packages, forming/using chunks for understanding/creativity, improving test performance, illusions of competence, overlearning challenges, advantages of interleaving.
+Module 3: Procrastination and Memory (approx. 1.75 hours core content) 
+Learn: Handling procrastination, building solid chunks in long-term memory, accessing brain’s long-term memory systems.
+Module 4: Renaissance Learning and Unlocking Your Potential (approx. 2.25 hours core content) 
+Learn: Enhancing learning ability, interacting with fellow learners, recognizing strengths, avoiding "imposter syndrome," using test preparation checklists.
+12. Amazon Web Services AWS Generative AI Applications Professional Certificate
+Provider: Amazon Web Services
+Overview: Teaches leveraging AWS AI services to enhance productivity and innovation, designed for business professionals and aspiring technologists. No deep technical background required.
+Key Learning Outcomes (Overall): Learn AI fundamentals and AWS services, including responsible AI practices and appropriate model selection. Understand prompt engineering techniques and practical application development using Amazon Bedrock, PartyRock, and other AWS tools. Design/architect AI solutions on AWS, integrating data management, security, cost optimization. Upgrade business ideas into scalable AI applications.
+Overall Skills Gained: Public Cloud, Machine Learning, Artificial Intelligence, Agentic systems, New Product Development, Generative AI, MLOps (Machine Learning Operations), Product Development, Data Management.
+Structure (3 courses): 
+1. AI Fundamentals and the Cloud (5 hours) 
+Learn: AWS Services, Responsible AI, Business Applications.
+Skills: Application Development, AWS SageMaker, AI/ML, Machine Learning, MLOps, Cloud Applications, Artificial Intelligence, Public Cloud, Cloud Development, Data Security, Data Ethics, AI Personalization, Amazon Web Services, Large Language Modeling.
+2. AWS Services for AI Solutions (6 hours) 
+Learn: Amazon Bedrock, Foundation Models, AI Architecture Design, AWS AI Integration.
+Skills: Prompt Engineering, Amazon Web Services, Generative AI, Personalized Service, Scalability, Large Language Modeling, Data Quality, Data Pipelines, Natural Language Processing, Business Process Automation, Solution Architecture, Computer Vision, AI/ML, AWS SageMaker.
+3. Bringing Ideas to Life Using AI (5 hours) 
+Learn: AI Application Development, Business Innovation, Project Implementation.
+Skills: Generative AI, Amazon Web Services, Prompt Engineering, Artificial Intelligence, API, Information Privacy, Application Development, Cost Management, New Product Development, Product Development, Agentic systems, Business Solutions, Large Language Modeling, Applied Machine Learning, Compliance Management, Data Ethics, Automation.
+13. AI for Sales Specialization
+Provider: AI Business School
+Overview: Designed for sales professionals to gain AI literacy, practical training, and skills to create AI-powered apps, workflows, and agents. No technical expertise required.
+Key Learning Outcomes (Overall): Gain AI Awareness (understanding/experimenting with AI). Learn AI Application (applying AI use cases in daily sales workflows). Master AI Creation & Innovation (building custom AI-powered solutions).
+Overall Skills Gained: Innovation, Artificial Intelligence, Agentic systems, Email Marketing, Generative AI, Operational Efficiency, Generative AI Agents, Sales, Sales Strategy, Risk Management, Sales Process, Automation.
+Structure (3 courses): 
+1. Introduction to AI for sales professionals (7 hours) 
+Learn: AI/GenAI fundamentals for sales, GenAI's transformation of sales, risks/limitations, experimenting with AI tools, essential prompting techniques, sales-specific use cases, integrating AI into routines.
+Skills: Artificial Intelligence, Sales, Automation, Business Risk Management, Innovation, Generative AI, Business Transformation, Technology Strategies, Risk Management, Digital Transformation, Sales Enablement, Employee Training, Sales Training, Leadership, Sales Strategy.
+2. Practical AI and prompting for sales professionals (8 hours) 
+Learn: Applying AI-driven sales use cases, using AI technologies in daily sales activities (hands-on exercises in playgrounds/sandbox environments), mastering prompting techniques/libraries for high-impact sales pitches/proposals/marketing materials, conceptualizing personalized AI use cases.
+Skills: Prompt Engineering, Ideation, Automation, Digital Transformation, Presentations, Artificial Intelligence, Generative AI, Email Marketing, Business Analysis, Innovation.
+3. AI agents and creator tools for sales professionals (4 hours) 
+Learn: AI-related productivity essentials, cutting-edge technologies (Agentic Workflows, autonomous AI Agents, Agent Swarms), creating sales-specific AI tools with modern creator tools, creating no-code AI apps/agentic workflows/agents, customizing to job requirements, leading AI adoption/transformation in Sales.
+Skills: Automation, Artificial Intelligence, Agentic systems, Business Process Automation, Return On Investment, Business Metrics, Ideation, Productivity, Digital Transformation, Application Development.
+14. Scrimba Vibe Coding Essentials - Build Apps with AI Specialization
+Provider: Scrimba
+Overall Skills Gained: User Interface (UI), Artificial Intelligence, Software Engineering, Computer Programming Tools, Generative AI, Generative AI Agents, Debugging, Web Applications, Database Application.
+Structure (3 courses): 
+1. Vibe Coding with Cursor AI (1 hour) 
+Learn: Using Cursor's AI chat panel for code generation/refinement, building applications with Cursor’s AI agent features, debugging/iterating on code with context-aware tools.
+Skills: Artificial Intelligence, Application Development, System Configuration, Debugging, User Interface (UI), Software Installation, Web Development Tools, Development Environment, Web Development, Integrated Development Environments, Generative AI, Software Development, Software Development Tools, Code Review.
+2. Vibe Coding with GitHub Copilot (1 hour) 
+Learn: Using GitHub Copilot for writing/refactoring/reviewing code, interacting with Copilot across modes (edit, chat, inline, agent), customizing behavior, using context tools/slash commands to guide responses, applying skills to a coding project.
+Skills: Microsoft Copilot, Generative AI Agents, Code Review, Prompt Engineering, Web Development, Generative AI, GitHub, Software Development, Computer Programming Tools.
+3. Learn to code with AI (8 hours) 
+Learn: Using AI to build web apps without programming knowledge, deploying web apps, basics of HTML, CSS, and JavaScript.
+Skills: Application Development, Artificial Intelligence, Mobile Development, Application Deployment, ChatGPT, HTML and CSS, UI Components, Debugging, Machine Learning, Front-End Web Development, GitHub, Version Control, Computer Programming, Database Application, Web Applications, Javascript, Web Development, Cascading Style Sheets (CSS).
+Planned Courses
+1. Microsoft AI & ML Engineering Professional Certificate
+Provider: Microsoft
+Overview: Prepares for a career in AI & ML Engineering, focusing on building, deploying, and innovating with advanced techniques and real-world projects. Requires intermediate Python programming knowledge and basic understanding of AI, ML, GenAI, and LLMs.
+Key Learning Outcomes (Overall): Design and implement AI & ML infrastructure (data pipelines, model development frameworks, deployment platforms). Master AI & ML algorithms and techniques (supervised, unsupervised, reinforcement learning, deep learning). Develop intelligent troubleshooting agents. Leverage Microsoft Azure for AI & ML workflows.
+Overall Skills Gained: Application Deployment, Microsoft Azure, Machine Learning, Machine Learning Methods, Applied Machine Learning, ChatGPT, Unsupervised Learning, Deep Learning, Generative AI.
+Structure (5 courses): 
+1. Foundations of AI and Machine Learning (35 hours) 
+Learn: AI & ML infrastructure components, data pipelines, model development frameworks, deployment platforms, robust/scalable design.
+Skills: Data Security, Application Frameworks, AI/supervised Learning, AI/ML, Dimensionality Reduction, Artificial Neural Networks, Supervised Learning, Machine Learning, Reinforcement Learning, Deep Learning, Feature Engineering, Predictive Modeling, Applied Machine Learning, Large Language Modeling, Performance Metric, Generative AI.
+3. Building Intelligent Troubleshooting Agents (45 hours) 
+Learn: Designing/implementing intelligent troubleshooting agents, natural language processing, decision-making algorithms, optimizing/evaluating performance.
+Skills: Performance Testing, Large Language Modeling, Performance Tuning, Natural Language Processing, Machine Learning, Python Programming, Issue Tracking, OpenAI, Prompt Engineering, Test Case, Debugging, Generative AI Agents, Artificial Intelligence, ChatGPT.
+4. Microsoft Azure for AI and Machine Learning (21 hours) 
+Learn: Hands-on with Azure's AI/ML services, configuring/managing Azure resources, implementing end-to-end ML pipelines, deploying/monitoring ML models in Azure, troubleshooting workflows.
+Skills: Microsoft Azure, Scalability, Data Pipelines, CI/CD, Systems Integration, Application Deployment, MLOps, Software Versioning, Data Storage, Data Processing, AI/ML, Continuous Monitoring, Debugging, Continuous Deployment.
+5. Advanced AI and Machine Learning Techniques and Capstone (32 hours) 
+Learn: Advanced ML techniques (ensemble methods, transfer learning), ethical considerations in GenAI, building scalable AI systems, designing/presenting comprehensive AI/ML solutions.
+Skills: Applied Machine Learning, Distributed Computing, Scalability, MLOps, AI/ML, Generative AI, Machine Learning Methods, Machine Learning, Information Privacy, Software Architecture, Artificial Intelligence, Data Ethics, Deep Learning.
+2. Google Cloud Machine Learning on Google Cloud Specialization
+Provider: Google Cloud Training
+Overview: Focuses on building, training, and deploying ML models at scale on Google Cloud, including automated ML and custom training .
+Structure (4 courses): 
+1. Introduction to AI and Machine Learning on Google Cloud (9 hours) 
+Learn: Google Cloud data-to-AI technologies/tools, GenAI in applications, choosing options for AI projects on Google Cloud, building end-to-end ML models with Vertex AI.
+Skills: Google Cloud Platform, AI/ML, Generative AI, Machine Learning, MLOps, Natural Language Processing, Cloud Platforms, Cloud Solutions, Cloud Infrastructure, API.
+2. Build, Train and Deploy ML Models with Keras on Google Cloud (13 hours) 
+Learn: Designing/building TensorFlow input data pipelines, using tf.data for large datasets, Keras Sequential/Functional APIs for model creation, training/deploying/productionalizing ML models at scale with Vertex AI.
+Skills: Keras, Tensorflow, Google Cloud Platform, Deep Learning, Artificial Neural Networks, Data Pipelines, Data Transformation, MLOps, Data Processing, Scalability, Google Cloud Platform, Data Processing.
+4. Machine Learning in the Enterprise (17 hours) 
+Learn: Data management, governance, preprocessing, when to use Vertex AutoML/BigQuery ML/custom training, Vertex Vizier Hyperparameter Tuning, creating batch/online predictions, model monitoring, creating pipelines with Vertex AI.
+Skills: Google Cloud Platform, Data Pipelines, Machine Learning, Workflow Management, MLOps, Tensorflow, Data Management, Data Transformation, Predictive Modeling, Applied Machine Learning, Data Governance, Machine Learning Methods, Cloud Computing, Continuous Monitoring, Managed Services.
+3. Google Cloud Advanced Machine Learning on Google Cloud Specialization
+Provider: Google Cloud Training
+Overview: Builds on "Machine Learning on GCP" to teach advanced ML topics, focusing on optimizing, deploying, and scaling production ML models for various data types. Designed for those already in the industry.
+Key Learning Outcomes (Overall): Build **scalable, accurate, * Learn: Static vs. dynamic training/inference, managing model dependencies, distributed training for fault tolerance/replication, exporting models for portability. * Skills: Google Cloud Platform, Tensorflow, Data Validation, Performance Tuning, Data Pipelines, Machine Learning, Applied Machine Learning, Distributed Computing, Hybrid Cloud Computing, Mobile Development, Cloud Computing Architecture, Scalability, Systems Design, MLOps, Systems Architecture, AI/ML, Software Architecture. 
+2. Computer Vision Fundamentals with Google Cloud (18 hours) 
+Learn: Computer vision problems, key concepts, and model architectures typically used.
+Skills: Google Cloud Platform, Computer Vision, Artificial Neural Networks, Image Analysis, Deep Learning, Tensorflow, API, Cloud API, Data Processing, AI/ML, Applied Machine Learning.
+3. Natural Language Processing on Google Cloud (8 hours) 
+Learn: NLP products/solutions on Google Cloud, developing13 hours)
+Learn: Content-based recommendation engines, collaborative filtering engines, hybrid recommendation engines with embeddings, reinforcement learning for contextual bandits.
+Skills: Applied Machine Learning, Machine Learning, Google Cloud Platform, Reinforcement Learning, Artificial Neural Networks, Feature Engineering, Machine Learning Algorithms, Unsupervised Learning, Deep Learning, Data Processing, Predictive Modeling, AI/ML.
+
+
+
+factor in my existing real-world work experience & personal strengths so the top 2–3 are more accurate. And I am also giving you the details of my diploma in pharmacy, current BBA program, and the planned MBA program for your reference to better understand my current position, Diploma in Pharmacy (D.Pharm) Syllabus:
+First Year:
+
+Pharmaceutics – 1
+
+Biochemistry and Clinical Pathology
+
+Pharmacognosy
+
+Pharmaceutical Chemistry – 1
+
+Human Anatomy and Physiology
+
+Health Education and Community Pharmacy
+
+Second Year:
+
+Pharmaceutics – 2
+
+Pharmacology and Toxicology
+
+Drug Store and Business Management
+
+Hospital and Clinical Pharmacy
+
+Pharmaceutical Jurisprudence
+
+Pharmaceutical Chemistry – 2
+
+BBA
+Completed semesters details, Here is a one-sentence summary for each subject based on the provided sources:
+
+*   **Advertising and Sales**: This subject explores the definition, roles, and functions of advertising, including key players, different types of advertising, Integrated Marketing Communications (IMC), copywriting, and media planning, alongside sales promotion techniques.
+*   **Business Communication**: This subject focuses on the **principles, process, and types of communication**, both internal (memos, circulars, reports) and external (business letters, press releases, advertising), emphasizing effective writing, oral presentations, reading skills, and digital communication tools like email and instant messaging.
+*   **Business Environment**: This subject covers the **economic, financial, and regulatory aspects** that shape business operations, including macroeconomic policies, financial systems, intellectual property rights, and the impact of liberalization, privatization, and globalization on enterprises.
+*   **Business Strategy**: This subject introduces the **concept, purpose, objectives, and features of business strategy**, detailing strategic management, various types of strategies (corporate, global, business, functional, operational), process management, and strategic leadership essential for organizational growth and competitive advantage.
+*   **Communication and Personality Development**: This subject explores the **evolution of language, English grammar (sentence structure, parts of speech, tenses, voice), reading comprehension, and vocabulary building**, while also addressing aspects of **personality development, self-image, time management, and leadership**.
+*   **Computer Fundamentals**: This subject introduces the **basic characteristics, history, generations, and classifications of computers**, detailing their **hardware components (memory, storage, I/O devices) and software (operating systems, application software, programming languages)**, and communication system concepts like networks and the Internet.
+*   **Environmental Science**: This subject focuses on the **Earth's major spheres (atmosphere, lithosphere, hydrosphere, biosphere, anthroposphere)**, **elemental cycling**, **biodiversity and its conservation**, and the **sources, effects, and control measures for various types of pollution** (air, water, soil, noise, solid waste), alongside population dynamics and environmental ethics.
+*   **Financial Accounting**: This subject covers the **fundamentals of financial accounting**, including book-keeping, the accounting process, key terminologies, **accounting concepts and conventions**, the accounting equation, double-entry system, subsidiary books, trial balance, **preparation of final accounts (Trading, Profit & Loss, Balance Sheet)**, bank reconciliation, bills of exchange, **partnership accounting**, depreciation, and **company accounts (shares, debentures, forfeiture, reissue)**.
+*   **Financial Management**: This subject introduces the **evolution, scope, and functions of financial management**, covering **time value of money**, **cost of capital**, **capital structure theories**, **dividend policy**, and the **management of working capital components** such as cash, receivables, and inventory.
+*   **Human Resource Management**: This subject defines **Human Resource Management (HRM)**, its evolution from personnel management, functions, and scope, while also delving into **Human Resource Planning (HRP), job analysis and design, recruitment, performance appraisal, wage and salary administration, incentives, employee relations, and International HRM**.
+*   **International Marketing**: This subject explores the **meaning and benefits of international marketing**, contrasting it with domestic marketing, examining **international trade theories**, understanding **economic, cultural, and political environments**, and detailing **market research, entry strategies, product decisions (branding, packaging), distribution, pricing, sales promotion, and e-marketing** in a global context.
+*   **Legal and Regulatory Framework**: This subject provides an overview of the **legal and regulatory environment for businesses in India**, covering the sources of business laws, **commercial laws (Contract, Sale of Goods, Partnership), corporate laws (Companies Act)**, **intellectual property rights**, IT Act, MSMED Act, and **labour laws**.
+*   **Management Accounting**: This subject introduces **management accounting**, its features, objectives, and functions, distinguishing it from financial and cost accounting, and covers **budgetary control, standard costing, marginal costing, cost-volume-profit analysis, financial statement analysis (comparative, common-size, trend, ratio), working capital management, fund flow statements, cash flow statements, capital budgeting, and dividend policy**.
+*   **Management Information System (MIS)**: This subject defines **MIS**, its history, role, importance, characteristics, and functions, exploring **various types of management information systems (TPS, KBS, OLAPS, EIS, DSS, BPS, OOS)**, **database concepts**, **Enterprise Resource Planning (ERP)**, e-enterprise systems, and emerging **trends in MIS** like Artificial Intelligence and Knowledge Management.
+*   **Marketing Management**: This subject outlines the **meaning and various concepts of marketing (exchange, production, product, sales, modern, societal)**, the **functions of marketing**, **market classification**, and the key decisions related to **product (branding, packaging, labeling), pricing, distribution channels, and the promotion mix (advertising, sales promotion, personal selling, public relations)**, also covering services marketing and market segmentation.
+*   **Organizational Behaviour**: This subject defines **Organizational Behavior (OB)**, its key elements (people, structure, technology, environment), managerial roles, and foundational approaches, alongside deeper dives into **interpersonal behavior, learning, personality theories, emotions, motivation, leadership, stress management, organizational communication, organizational culture, and the dynamics of groups and teams**.
+*   **Quality Management**: This subject traces the **evolution of quality concepts**, defining its **dimensions and contrasting Quality Control (QC) with Quality Assurance (QA)**, and delves into **strategic quality management, customer focus, productivity, supplier relations, quality tools (check sheets, histograms, Pareto charts, etc.)**, **ISO 9000 standards**, **benchmarking**, employee involvement, and various **national and international quality awards**.
+*   **Quantitative Techniques for Management**: This subject introduces the **foundations of statistics**, including **data collection and presentation**, various **measures of central tendency (mean, median, mode)** and **dispersion (range, standard deviation)**, **correlation and regression analysis**, **time series analysis**, **index numbers**, and **sampling techniques** used for data analysis and decision-making.
+*   **Retail Management**: This subject defines **retailing**, highlights its **importance and functions**, describes **different retail formats (convenience, departmental, hypermarkets, e-tailers)**, and explores aspects of **retail consumer behavior, communication, merchandise management, pricing, and store administration**.
+*   **Rural Marketing**: This subject focuses on the **classification and characteristics of rural markets**, detailing **product classification and new product development strategies for rural areas**, **distribution models, agricultural marketing (produce, markets, channels, sales methods)**, the role of marketing agencies, market surplus, risk management, and **consumer buying behavior, communication challenges, media, credit, e-marketing, and FMCG/durables** in rural India.
+
+BBA pending semester details, SEM - 5 - Subject
+Consumer Behavior
+Business Analytics
+Operation and Production Management
+Economic Planning
+eCommerce
+Entrepreneurship
+Small Business Management
+
+SEM - 6 - Subject
+Customer Relationship Management
+Digital Marketing
+Technology Management
+Management Development and Skills
+Role of International Financial Management
+
+MBA future plan details
+Jain online MBA AI Driven Business Strategy			1st Semester	2nd Semester	3rd Semester	4th Semester
+program credit - 90	USD	AED	AI for Business Problem Solving (No-Code Labs)	Agentic AI to Build Business Agents	AI-Powered Digital Transformation & Innovation	Leadership & Change Management in the Age of AI
+Course fee	5200	19200	Managerial Economics in the Age of AI	Data Analytics & Visualization	Design Thinking & Product Development with AI	Innovation & Growth Strategy in AI-First Organizations
+Sem fee	1300	4800	Financial & Management Accounting with AI Tools	Operations & Supply Chain with AI Automation	AI for Decision Making - Tools & Frameworks	Agile Business Models using Agentic AI
+22 subjects and 2 projects			Marketing Principles with Generative AI	Strategic Management in the AI Era	Strategic Foresight & Scenario Planning with AI	AI for Corporate Decision-Making & Leadership
+			Organizational Behavior & People Analytics	Ethics, Governance & Responsible AI	AI for Market Intelligence & Competitive Positioning	Emerging Tech in Business
+					Open Elective	Capstone Project
+					Domain Integration Project (Mini hands-on build)	
+

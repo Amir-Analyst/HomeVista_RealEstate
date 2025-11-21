@@ -1,0 +1,41 @@
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Web Scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+selenium>=4.10.0
+lxml>=4.9.0
+
+# Dashboard
+streamlit>=1.25.0
+
+# Data Generation
+Faker>=18.0.0
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# Optional (for LangChain integration - Phase 4)
+# langchain>=0.1.0
+# openai>=1.0.0
+# chromadb>=0.4.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.23.0
+
+# Data Processing
+openpyxl>=3.1.0  # For Excel file support
