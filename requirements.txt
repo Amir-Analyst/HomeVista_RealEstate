@@ -25,6 +25,10 @@ lxml>=4.9.0
 # Dashboard
 streamlit>=1.25.0
 
+# Model Download (for Streamlit Cloud deployment)
+gdown>=4.7.1
+
+
 # Data Generation
 Faker>=18.0.0
 

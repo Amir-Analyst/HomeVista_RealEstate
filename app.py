@@ -20,6 +20,30 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# Check if models are available
+from pathlib import Path
+MODELS_DIR = Path(__file__).parent / 'models'
+required_models = ['model_suite.pkl', 'ensemble_weights.pkl', 'feature_engineer.pkl']
+missing_models = [f for f in required_models if not (MODELS_DIR / f).exists()]
+
+if missing_models:
+    st.error(f"""
+    ### ⚠️ Model Files Not Found
+    
+    The following model files are missing:
+    {', '.join(missing_models)}
+    
+    **For Streamlit Cloud:** Models should download automatically on first deployment.
+    If this error persists, please check the deployment logs.
+    
+    **For Local Development:** Run the setup script:
+    ```bash
+    python setup_models.py
+    ```
+    """)
+    st.stop()
+
+
 # Custom CSS for premium styling
 st.markdown("""
 <style>

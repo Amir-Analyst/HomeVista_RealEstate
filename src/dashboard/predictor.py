@@ -54,8 +54,19 @@ class RentPredictor:
                 self.feature_names = self.engineer.feature_names
                 
         except FileNotFoundError as e:
-            print(f"Error loading models: {e}")
-            # In production, we might want to raise this or handle gracefully
+            error_msg = f"""
+            Model files not found. Please run the setup script first:
+            
+            python setup_models.py
+            
+            Missing file: {e}
+            """
+            print(error_msg)
+            raise FileNotFoundError(error_msg) from e
+        except Exception as e:
+            error_msg = f"Error loading predictor: {e}"
+            print(error_msg)
+            raise RuntimeError(error_msg) from e
             
     def prepare_input(self, property_data: Dict[str, Any]) -> pd.DataFrame:
         """
@@ -69,6 +80,18 @@ class RentPredictor:
         Returns:
             pd.DataFrame: Single-row DataFrame with processed features.
         """
+        # Parse tier value robustly to handle various formats
+        tier_str = str(property_data['tier']).strip()
+        if tier_str.lower().startswith('tier'):
+            tier_str = tier_str[4:].strip()  # Remove 'tier' prefix
+        try:
+            tier_numeric = int(tier_str)
+            # Validate tier is in expected range (1-3)
+            if tier_numeric not in [1, 2, 3]:
+                tier_numeric = 1  # Default to Tier 1
+        except (ValueError, AttributeError):
+            tier_numeric = 1  # Default to Tier 1 if parsing fails
+        
         # Create base dictionary
         row = {
             'neighborhood': property_data['neighborhood'],
@@ -79,7 +102,7 @@ class RentPredictor:
             'amenity_count': int(property_data['amenity_count']),
             
             # Convert categorical/boolean inputs to numeric
-            'tier_numeric': int(property_data['tier'].replace('Tier ', '')),
+            'tier_numeric': tier_numeric,
             'furnished_numeric': 1 if property_data['furnished'] else 0,
             'has_metro_numeric': 1 if property_data['has_metro'] else 0,
             'beach_accessible_numeric': 1 if property_data['beach_accessible'] else 0,

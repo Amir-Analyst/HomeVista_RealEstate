@@ -44,10 +44,14 @@ data/raw/*.json
 data/raw/*.xlsx
 *.csv.gz
 
-# Models (can be large, but ours are <100MB)
-# models/*.pkl
-# models/*.joblib
+# Models - Large files hosted externally (Google Drive)
+# Downloaded automatically via setup_models.py
+models/*.pkl
+models/*.joblib
 models/*.h5
+models.zip
+!models/.gitkeep
+
 
 # OS
 .DS_Store

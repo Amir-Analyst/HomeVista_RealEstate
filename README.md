@@ -191,10 +191,75 @@ streamlit run app.py
 
 **Dashboard opens at**: `http://localhost:8501`
 
+### ⚠️ Important: Model Files Setup
+
+Due to GitHub's 25MB file size limit, model files (72MB total) are hosted externally and downloaded automatically.
+
+#### For First-Time Local Setup:
+```bash
+# Download models from Google Drive
+python setup_models.py
+```
+
+This will download:
+- `model_suite.pkl` (72MB) - Ensemble of 4 trained models
+- `ensemble_weights.pkl` - Model weights
+- `feature_engineer.pkl` - Feature engineering pipeline
+- `best_hyperparameters.pkl` - Optimized hyperparameters
+
+**Note**: You only need to run this once. Models are cached locally.
+
+#### For Streamlit Cloud Deployment:
+
+The app automatically downloads models on first deployment. No manual setup needed!
+
+If you encounter model loading errors:
+1. Check deployment logs for download status
+2. Verify the Google Drive file ID in `setup_models.py` is correct
+3. Ensure the Google Drive link has public access ("Anyone with link can view")
+
 ### Run Tests
 ```bash
 pytest tests/
 ```
+
+---
+
+## 🌐 Deployment
+
+### Deploy to Streamlit Cloud
+
+1. **Fork this repository** to your GitHub account
+
+2. **Upload Models to Google Drive**:
+   - Compress the `models/` folder into `models.zip`
+   - Upload to Google Drive
+   - Share → "Anyone with the link can view"
+   - Copy the file ID from the shareable link
+
+3. **Update `setup_models.py`**:
+   - Replace `YOUR_GOOGLE_DRIVE_FILE_ID_HERE` with your file ID
+   - Commit and push changes
+
+4. **Deploy on Streamlit Cloud**:
+   - Go to [share.streamlit.io](https://share.streamlit.io)
+   - Select your repository
+   - Models will download automatically on first run
+
+### Troubleshooting
+
+**Error: "Model files not found"**
+- Run `python setup_models.py` locally
+- For Streamlit Cloud, check deployment logs for download errors
+
+**Error: "invalid literal for int() with base 10: 'Tier'"**
+- This has been fixed in the latest version
+- Ensure you're using the updated `predictor.py`
+
+**Slow first load on Streamlit Cloud**
+- First deployment downloads 72MB of models (takes ~30 seconds)
+- Subsequent loads are instant (models are cached)
+
 
 ---
 
