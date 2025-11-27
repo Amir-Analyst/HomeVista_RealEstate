@@ -44,9 +44,9 @@ data/raw/*.json
 data/raw/*.xlsx
 *.csv.gz
 
-# Models (can be large)
-models/*.pkl
-models/*.joblib
+# Models (can be large, but ours are <100MB)
+# models/*.pkl
+# models/*.joblib
 models/*.h5
 
 # OS

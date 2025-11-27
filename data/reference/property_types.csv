@@ -1,0 +1,5 @@
+property_type,bedrooms,bathrooms,typical_size_min,typical_size_max,base_amenities
+Studio,0,1,350,650,Parking;Security;Central AC
+1BR,1,1,600,1200,Parking;Security;Central AC;Built-in Wardrobes
+2BR,2,2,1000,1800,Parking;Security;Central AC;Built-in Wardrobes;Balcony
+3BR,3,2,1500,2500,Parking;Security;Central AC;Built-in Wardrobes;Balcony;Maid's Room

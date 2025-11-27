@@ -11,6 +11,7 @@ PROJECT_ROOT = Path(__file__).parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 MODELS_DIR = PROJECT_ROOT / "models"
 NOTEBOOKS_DIR = PROJECT_ROOT / "notebooks"
+REPORTS_DIR = PROJECT_ROOT / "reports"
 
 # Data Paths
 RAW_DATA_DIR = DATA_DIR / "raw"
@@ -31,10 +32,9 @@ MODEL_PRICE_PREDICTOR = MODELS_DIR / "rental_price_model.pkl"
 MODEL_SCALER = MODELS_DIR / "feature_scaler.pkl"
 
 # Data Generation Parameters
-RANDOM_SEED = 42  # For reproducibility
-NUM_SYNTHETIC_LISTINGS = 2500
-NUM_TENANT_PROFILES = 1000
-NUM_AGENTS = 50
+NUM_SYNTHETIC_LISTINGS = 16000  # 100% coverage of real market (16K-18K listings)
+NUM_TENANT_PROFILES = 5000  # Increased proportionally
+RANDOM_SEED = 42
 
 # Dubai Neighborhoods (20 areas)
 NEIGHBORHOODS = [
@@ -102,9 +102,22 @@ RANDOM_FOREST_ESTIMATORS = 100
 RANDOM_FOREST_MAX_DEPTH = 20
 
 # Web Scraping Settings
-SCRAPE_TARGET_COUNT = 300  # Number of listings to scrape
-SCRAPE_DELAY_SECONDS = 2  # Delay between requests (be polite)
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+SCRAPE_TARGET_COUNT = 400  # Number of listings to scrape
+SCRAPE_DELAY_MIN = 2  # Minimum seconds between requests
+SCRAPE_DELAY_MAX = 5  # Maximum seconds between requests
+SCRAPE_HEADLESS = False  # Run browser in headless mode (set True for background)
+SCRAPE_TIMEOUT = 30  # Page load timeout (seconds)
+
+# Bayut URLs
+BAYUT_BASE = "https://www.bayut.com"
+BAYUT_SEARCH = f"{BAYUT_BASE}/to-rent/property/dubai/"
+
+# User Agents (rotate to avoid detection)
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+]
 
 # Dashboard Settings
 DASHBOARD_TITLE = "HomeVista: Dubai Rental Intelligence"
@@ -118,7 +131,8 @@ def initialize_directories():
         PROCESSED_DATA_DIR,
         REFERENCE_DATA_DIR,
         MODELS_DIR,
-        NOTEBOOKS_DIR
+        NOTEBOOKS_DIR,
+        REPORTS_DIR
     ]
     
     for directory in directories:

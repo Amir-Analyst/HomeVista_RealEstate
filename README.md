@@ -1,33 +1,3 @@
-# 🏙️ HomeVista: AI-Powered Dubai Rental Intelligence
-
-> An AI-augmented predictive analytics system analyzing Dubai's rental market to help expats and investors make data-driven housing decisions.
-
-**Status:** 🚧 In Development
-
----
-
-## 📋 Project Overview
-
-HomeVista combines real-world scraped data with synthetic generation to create a comprehensive rental market intelligence system for Dubai. Using machine learning models, the project predicts rental prices, segments neighborhoods, and provides actionable insights for both renters and investors.
-
-**Key Features:**
-- 🎯 Rental price prediction using ensemble ML models
-- 📊 Neighborhood segmentation and comparison
-- 💰 Investment ROI calculator for property investors
-- 📈 Interactive Streamlit dashboard
-- 🔍 Market insights based on 2025 Dubai rental data
-
----
-
-## 🎓 Academic Context
-
-This project serves as:
-- **BBA Coursework**: Practical application of Business Analytics (Semester 5)
-- **MBA Preparation**: Foundation for AI-Driven Business Strategy program
-- **Portfolio Project**: Demonstrates progression from descriptive to predictive analytics
-
----
-
 ## 🗂️ Project Structure
 
 ```
