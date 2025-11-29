@@ -47,12 +47,12 @@ def calculate_rent(neighborhood_row, property_type, size_sqft):
     if rent_min == rent_max:
         return rent_min
     
-    # Calculate mean and std dev for normal distribution
-    rent_mean = (rent_min + rent_max) / 2
-    rent_std = (rent_max - rent_min) / 4  # 95% of data within range
+    # Use beta distribution (alpha=1.2, beta=6) for stronger right skew
+    # This places the mean at ~16% of the range (e.g., 65k for a 55k-120k range)
+    beta_sample = np.random.beta(1.2, 6)
     
-    # Generate rent with normal distribution
-    base_rent = np.random.normal(rent_mean, rent_std)
+    # Calculate base rent
+    base_rent = rent_min + (rent_max - rent_min) * beta_sample
     
     # Ensure within bounds
     base_rent = np.clip(base_rent, rent_min, rent_max)

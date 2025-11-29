@@ -101,8 +101,14 @@ def property_input_form(show_listed_price: bool = False) -> Optional[Dict]:
         submitted = st.form_submit_button("Get Prediction", type="primary", width="stretch")
         
         if submitted:
-            # Extract tier value
-            tier_value = tier.split(" ")[0]  # "Tier 1" from "Tier 1 (Premium)"
+            # Extract tier value using robust mapping
+            tier_ui_map = {
+                "Tier 1 (Premium)": "Luxury",
+                "Tier 2 (High-end)": "Premium",
+                "Tier 3 (Mid-market)": "Mid-Market",
+                "Tier 4 (Budget)": "Budget"
+            }
+            tier_value = tier_ui_map.get(tier, "Mid-Market")  # Default fallback
             
             property_data = {
                 'neighborhood': neighborhood,

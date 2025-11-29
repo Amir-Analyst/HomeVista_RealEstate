@@ -44,8 +44,8 @@ def train_model_suite(X_train, y_train, X_val, y_val):
     # 1. Random Forest
     print("\n[1/4] Training Random Forest...")
     rf = RandomForestRegressor(
-        n_estimators=200,
-        max_depth=30,
+        n_estimators=100,  # Reduced from 200
+        max_depth=15,      # Reduced from 30
         min_samples_split=5,
         min_samples_leaf=2,
         random_state=42,
@@ -66,9 +66,9 @@ def train_model_suite(X_train, y_train, X_val, y_val):
     # 2. XGBoost
     print("\n[2/4] Training XGBoost...")
     xgb = XGBRegressor(
-        n_estimators=200,
+        n_estimators=150,  # Reduced from 200
         learning_rate=0.05,
-        max_depth=10,
+        max_depth=6,       # Reduced from 10
         subsample=0.8,
         colsample_bytree=0.8,
         random_state=42,
@@ -92,9 +92,9 @@ def train_model_suite(X_train, y_train, X_val, y_val):
     # 3. LightGBM
     print("\n[3/4] Training LightGBM...")
     lgbm = LGBMRegressor(
-        n_estimators=200,
+        n_estimators=150,  # Reduced from 200
         learning_rate=0.05,
-        max_depth=10,
+        max_depth=6,       # Reduced from 10
         subsample=0.8,
         colsample_bytree=0.8,
         random_state=42,
@@ -117,9 +117,9 @@ def train_model_suite(X_train, y_train, X_val, y_val):
     # 4. CatBoost
     print("\n[4/4] Training CatBoost...")
     cat = CatBoostRegressor(
-        iterations=200,
+        iterations=150,    # Reduced from 200
         learning_rate=0.05,
-        depth=10,
+        depth=6,           # Reduced from 10
         random_state=42,
         verbose=0,
         allow_writing_files=False

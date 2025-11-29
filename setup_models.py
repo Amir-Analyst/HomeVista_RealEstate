@@ -45,7 +45,7 @@ def download_models():
     # Example: https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing
     # The file ID is: 1a2b3c4d5e6f7g8h9i0j
     
-    GDRIVE_FILE_ID = "YOUR_GOOGLE_DRIVE_FILE_ID_HERE"
+    GDRIVE_FILE_ID = "1ZlEQDDhDCMSZXexuhSo2yg31jSZ7Ggfe"
     
     if GDRIVE_FILE_ID == "YOUR_GOOGLE_DRIVE_FILE_ID_HERE":
         print("\n" + "="*70)

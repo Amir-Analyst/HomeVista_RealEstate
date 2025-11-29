@@ -82,15 +82,29 @@ class RentPredictor:
         """
         # Parse tier value robustly to handle various formats
         tier_str = str(property_data['tier']).strip()
-        if tier_str.lower().startswith('tier'):
-            tier_str = tier_str[4:].strip()  # Remove 'tier' prefix
-        try:
-            tier_numeric = int(tier_str)
-            # Validate tier is in expected range (1-3)
-            if tier_numeric not in [1, 2, 3]:
-                tier_numeric = 1  # Default to Tier 1
-        except (ValueError, AttributeError):
-            tier_numeric = 1  # Default to Tier 1 if parsing fails
+        
+        # Tier mapping (consistent with data_processor.py)
+        tier_mapping = {
+            'Budget': 1,
+            'Mid-Market': 2, 
+            'Premium': 3,
+            'Luxury': 4
+        }
+        
+        # Check if it's a text tier
+        if tier_str in tier_mapping:
+            tier_numeric = tier_mapping[tier_str]
+        else:
+            # Handle "Tier 1", "1", etc.
+            if tier_str.lower().startswith('tier'):
+                tier_str = tier_str[4:].strip()
+            try:
+                tier_numeric = int(tier_str)
+                # Validate tier is in expected range (1-4)
+                if tier_numeric not in [1, 2, 3, 4]:
+                    tier_numeric = 2  # Default to Mid-Market
+            except (ValueError, AttributeError):
+                tier_numeric = 2  # Default to Mid-Market if parsing fails
         
         # Create base dictionary
         row = {
@@ -120,7 +134,10 @@ class RentPredictor:
             
             # Target encoding placeholders (required for transform)
             'neighborhood_rent_avg': 100000.0,  # Default to global mean placeholder
-            'neighborhood_rent_std': 20000.0    # Default to global std placeholder
+            'neighborhood_rent_std': 20000.0,    # Default to global std placeholder
+            
+            # Pass the raw tier string so feature engineer doesn't overwrite it with default
+            'tier': tier_str
         }
         
         df = pd.DataFrame([row])
