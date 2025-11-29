@@ -85,7 +85,7 @@ HomeVista isn't just a dashboard; it's a robust engineering project.
 
 ### 🌐 Try the Live Demo
 
-**👉 [Launch HomeVista Dashboard](https://homevista-realestate.streamlit.app)**
+**👉 [Launch HomeVista Dashboard]([https://homevista-realestate.streamlit.app](https://homevistarealestate.streamlit.app/))**
 
 No installation required! The app is deployed on Streamlit Cloud and ready to use.
 
