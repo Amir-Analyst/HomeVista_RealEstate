@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-    <img src="assets/homevista.png" width="900">
+    <img src="assets/homevista.png" width="500">
 </div>
 
 # 🏙️ HomeVista: Dubai Rental Intelligence
