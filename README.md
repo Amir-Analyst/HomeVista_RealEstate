@@ -9,7 +9,7 @@
 [![ML Models](https://img.shields.io/badge/ML-4_Ensemble_Models-green?style=for-the-badge)](https://github.com)
 [![Accuracy](https://img.shields.io/badge/R²_Score-99.7%25-brightgreen?style=for-the-badge)](https://github.com)
 
-**[📊 Live Demo](#) • [📖 Technical Docs](docs/TECHNICAL_ARCHITECTURE.md) • [🎥 Video Walkthrough](#)**
+**[📊 Live Demo](https://homevista-realestate.streamlit.app) • [📖 Technical Docs](docs/TECHNICAL_ARCHITECTURE.md) • [💻 GitHub](https://github.com/Amir-Analyst/HomeVista_RealEstate)**
 
 </div>
 
@@ -83,7 +83,17 @@ HomeVista isn't just a dashboard; it's a robust engineering project.
 
 ## 🚀 Quick Start
 
-### Run Locally
+### 🌐 Try the Live Demo
+
+**👉 [Launch HomeVista Dashboard](https://homevista-realestate.streamlit.app)**
+
+No installation required! The app is deployed on Streamlit Cloud and ready to use.
+
+---
+
+### 💻 Run Locally (Optional)
+
+For development or customization:
 
 ```bash
 # 1. Clone the repository
