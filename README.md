@@ -104,10 +104,10 @@ cd HomeVista_RealEstate
 pip install -r requirements.txt
 
 # 3. Setup Models (Downloads 72MB model suite)
-python setup_models.py
+python HomeVista_App/setup_models.py
 
 # 4. Launch the dashboard
-streamlit run app.py
+streamlit run HomeVista_App/app.py
 ```
 
 **Dashboard opens at**: `http://localhost:8501`
