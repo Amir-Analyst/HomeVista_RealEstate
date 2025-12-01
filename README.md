@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+    <img src="assets/homevista.png" width="500">
+</div>
+
 # 🏙️ HomeVista: Dubai Rental Intelligence
 
 ### *AI-Powered Market Transparency for Smarter Rental Decisions*
@@ -85,7 +89,7 @@ HomeVista isn't just a dashboard; it's a robust engineering project.
 
 ### 🌐 Try the Live Demo
 
-**👉 [Launch HomeVista Dashboard](https://homevista-realestate.streamlit.app)**
+**👉 [Launch HomeVista Dashboard](https://homevistarealestate.streamlit.app/)**
 
 No installation required! The app is deployed on Streamlit Cloud and ready to use.
 
@@ -116,7 +120,7 @@ streamlit run HomeVista_App/app.py
 
 ## 👤 About the Developer
 
-**Amir Khan** | *Data Analyst & BBA Student*
+**Amir Khan** | *Data Analyst*
 
 I bridge the gap between **business operations** and **advanced analytics**. This project demonstrates my ability to:
 *   **Solve Real Problems**: Translated a market pain point into a deployed AI solution.
